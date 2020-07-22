@@ -12,7 +12,8 @@
 
 <br />
 
-Hi, I'm Shivam Raj, a Web Developer and Cybersecurity Enthusiastic 🚀 from Bihar, India. Beside's Computer Science, I love photography.
+Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 from Bihar, India. 
+Beside's Computer Science, I love photography.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
