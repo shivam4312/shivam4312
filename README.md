@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Shivam!]
+### Hey 👋🏽, I'm Shivam!
 
 <br/>
 
