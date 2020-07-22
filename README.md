@@ -8,12 +8,9 @@
 <a href="https://www.instagram.com/iamshivamraj_/">
 <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
-
 <br />
 
-Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 from Bihar, India. 
-Beside's Computer Science, I love photography.
+Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 from Bihar, India. Beside's Computer Science, I love photography.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
