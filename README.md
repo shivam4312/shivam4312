@@ -50,13 +50,13 @@ Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar
 
 🛠 Tools I use:
 <div style="inline">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" style="margin-right : 5px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="48px" height="48px" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/bG9QbQKaVnFnCegu6vFDiwDvbA6PAAg-Cc_K9FZc153oTSoOowqVgnrA3wTYsFnvw1JyxK0quUaAjTp7jsWPuHkMhLKpxMiic57uUuejaVn0Q2xuEzxe286oquqZSfzlcImOnkoDnA=s48-p-k" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/uvAtTx6Dj8lhH8WwxBwg-bsNCKuV9n2zUUIZO0Z05-aVW1nTX6tvh6by-2oxgCKosnAtuXaZgPaCie8Y89PaOhnYjrD8iEx0euCnM-KWeg8AuGWZ7s0ci-b_PQO3mT1eiFXBQvOPTw=s48-p-k" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/-7AZqtAWQUqa7UPtLTvIx8JaArepJnHHAJ3PpcQo0Cumr1nrgAvrMi9RT0hEZqVLmt_LDm2yjqDYR1ZrtBBPveR-8ztjjK62zMKkuiX0dBpXnAj8EjELG-bpWuaZNzob5J3wgIrz6g=s48-p-k" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/0WZMtRyCsPrYUPRlUkuSCMRp0Fb2t-NJhJ9A-UGNizRFcufq7V-1w5tNoCZnG6PRVsp4234JTZTBEsr4ZAW26CX-fEONG1fe7jrbKMkD-xQgmuTSXBTuQnAb8pianG0aQgatk71U8g=s48-p-k" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/z6l5FcAD9oU-tdsCykfXwXrqusBRixzEkFcWBIcWTnXMKTy05JaydPoOaXu6NX0yWpSTKMZYHXPoOcA6ud3WfeOF8vDzs_FTjSTvrV4ecs28XPvsZ9EpZ2fE3Rk_U1dvlpTzIbHQTw=s48-p-k" /style="margin-right : 5px">
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" style="margin-right : 5px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" width="48px" height="48px" style="margin-right : 5px"/>
 </div>
 
 ![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivam4312&show_icons=true&hide_border=true)
