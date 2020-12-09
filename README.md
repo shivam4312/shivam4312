@@ -63,6 +63,6 @@ Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar
 <br>
 🤝 Connect with me: 
  <a href="https://www.linkedin.com/in/shivam-raj-it"><img src="https://gp3.googleusercontent.com/rs4yxqGcOQBD43JjqIX8SB5rMojfLpdI2gTJn_1HtaKRyj8QFyzB1WH9f-CkBEvEkZRpPONZADLwsbhGOQk5ddEPb8upQdsmxxyJVEVAmn0KPVK4CPXgFe14fpIWn_Aw6b8NjFbc_Q=s48-p-k" style="margin-right : 5px"/></a>
- <a href="https://www.instagram.com/iamshivamraj_/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" style="margin-right : 5px"/></a>
- <a href="mailto:shivam43120@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" style="margin-right : 5px"/></a>
+ <a href="https://www.instagram.com/iamshivamraj_/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>
+ <a href="mailto:shivam43120@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>
 
