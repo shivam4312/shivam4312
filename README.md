@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Shivam!
+## Hey 👋, I'm Shivam!
 
 
 Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar, India. Currently I am pursuing my pre-final year B.Tech in Information Technology 💻 from Siliguri Institute of Technology, West Bengal, India. Beside's Computer Science, I love photography.
