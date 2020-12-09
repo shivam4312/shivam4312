@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Shivam!
 
-<br/>
+/*<br/>
 
 <a href="https://www.linkedin.com/in/shivam-raj-4722a9184/">
 <img align="left" alt="Shivam's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -8,7 +8,8 @@
 <a href="https://www.instagram.com/iamshivamraj_/">
 <img align="left" alt="Shivam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<br />
+<br /> 
+*/
 
 Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar, India. Currently I am pursuing my pre-final year B.Tech in Information Technology 💻 from Siliguri Institute of Technology, West Bengal, India. Beside's Computer Science, I love photography.
 
@@ -65,5 +66,5 @@ Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar
 
 🤝 Connect with me: 
 <div style="inline">
- <a href="https://www.linkedin.com/in/shivam-raj-it"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="48px" height="48px" style="margin-right : 5px"/></a>|<a href="https://www.instagram.com/iamshivamraj_/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="48px" height="48px" style="margin-right : 5px"/></a>| <a href="mailto:shivam43120@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="48px" height="48px" style="margin-right : 5px"/></a>
+ <a href="https://www.linkedin.com/in/shivam-raj-it"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="48px" height="48px" style="margin-right : 5px"/></a>    <a href="https://www.instagram.com/iamshivamraj_/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="48px" height="48px" style="margin-right : 5px"/></a>    <a href="mailto:shivam43120@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="48px" height="48px" style="margin-right : 5px"/></a>
 <div>
