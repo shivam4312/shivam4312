@@ -31,9 +31,7 @@ Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar
 <div style="inline">
  <img src="https://gp3.googleusercontent.com/xpusb6Sn-CTs74omfD5HTwbnVeVYa9lqoUTl4mgrye-EmZWw5U2psiZU3Fk7cpEBPjLe4z28PS16AcN8OdjKrsrK-Q67sdoeViY44rHw7YuavIjOmQmWWiVCkCd-hJdyYpfjldVO9Q=s48-p-k" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/dQOg4syyKHIyOsKRm2AljixqfuEoXWLktCcz1LTim6Fghr_afDMoAFQ-8g58dyNonJHFIqG528OMiLWFGF0Lblx8Gzy2ABulE3jW246LWPx5XbaQmjR4WPFY2YzEY1fogE4X2Y-BFw=s48-p-k" style="margin-right : 5px"/>
- <img src="https://lh3.googleusercontent.com/_J-GU55lJImn2DTdnOePvpO29IdlcQeabrKxg1x6ACW3kTkrTgugOtgvcrUI33W0UbDd7pURv_i1-0F9dbO_WhJXv73611VwQEihZVpqO6ldBhCf3RnO29aiM7p2bymNcsIodLMRMg=w2400" width="48px" height="48px" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/sHQurDedPsMjmAevyA5GVtr1q8UmA2lz1ubelDyc_Qpvw8-Ijo_natWj0Jmyc0oOO2UP_Xn6yW40XQm0Buqd-zQdVCmT_-P03tGtqI6OinvBCYIBVCDmGmW7toRErrvhgFFCI3chzQ=s48-p-k" style="margin-right : 5px"/>
- <img src="https://lh3.googleusercontent.com/Z9gq0E-OJ3ZPoSdFnmTHHvoxjhJtOW6JAYnIWFRZF8DBWl_sdzrJTLGIcgjrqCd3ukLXE4uF1ncD2-bdw-nW7ImzvJm02EVLX1VPsm8NXLVaxqTItbypiR1L_7sSNONN1yE66WV3mA=s240-p-k" width="48px" height="48px" style="margin-right : 5px"/>
    <img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" width="48px" height="48px" style="margin-right : 5px"/>
 </div>
 <br>
