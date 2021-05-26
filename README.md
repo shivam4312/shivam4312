@@ -8,8 +8,8 @@ Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Web Development projects
-- 🌱 I’m currently learning Java and MERN Technology
-- 🤝 I’m looking to collaborate on some awesome projects using MERN Tech.
+- 🌱 I’m currently learning React Js
+- 🤝 I’m looking to collaborate on some awesome projects using React Js.
 - 💬 Ask me about anything related to tech, I am happy to help
 - ⚡️ Fun-Fact: I spend almost 4 hours to read memes everyday :)
 - 📫 How to reach me: shivam43120@gmail.com
@@ -34,7 +34,6 @@ Hi, I'm Shivam Raj, a Cybersecurity Enthusiastic 🚀 & Web Developer from Bihar
  <img src="https://lh3.googleusercontent.com/_J-GU55lJImn2DTdnOePvpO29IdlcQeabrKxg1x6ACW3kTkrTgugOtgvcrUI33W0UbDd7pURv_i1-0F9dbO_WhJXv73611VwQEihZVpqO6ldBhCf3RnO29aiM7p2bymNcsIodLMRMg=w2400" width="48px" height="48px" style="margin-right : 5px"/>
  <img src="https://gp3.googleusercontent.com/sHQurDedPsMjmAevyA5GVtr1q8UmA2lz1ubelDyc_Qpvw8-Ijo_natWj0Jmyc0oOO2UP_Xn6yW40XQm0Buqd-zQdVCmT_-P03tGtqI6OinvBCYIBVCDmGmW7toRErrvhgFFCI3chzQ=s48-p-k" style="margin-right : 5px"/>
  <img src="https://lh3.googleusercontent.com/Z9gq0E-OJ3ZPoSdFnmTHHvoxjhJtOW6JAYnIWFRZF8DBWl_sdzrJTLGIcgjrqCd3ukLXE4uF1ncD2-bdw-nW7ImzvJm02EVLX1VPsm8NXLVaxqTItbypiR1L_7sSNONN1yE66WV3mA=s240-p-k" width="48px" height="48px" style="margin-right : 5px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" width="48px" height="48px" style="margin-right : 5px"/>
    <img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" width="48px" height="48px" style="margin-right : 5px"/>
 </div>
 <br>
